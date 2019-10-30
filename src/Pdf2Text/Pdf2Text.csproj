@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>aukolov</Authors>
+    <Copyright>(c) aukolov, 2019 (c) iText</Copyright>
+    <Description>This package can be used to extract text from PDF files.
+iText7 package is used internally.</Description>
   </PropertyGroup>
 
   <ItemGroup>
