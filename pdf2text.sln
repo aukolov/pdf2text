@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29409.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdf2Text", "Pdf2Text\Pdf2Text.csproj", "{5DAAAC54-9F6E-46C7-8590-CCAA6FC1C06F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdf2Text", "src\Pdf2Text\Pdf2Text.csproj", "{5DAAAC54-9F6E-46C7-8590-CCAA6FC1C06F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdf2Text.Tests", "src\Pdf2Text.Tests\Pdf2Text.Tests.csproj", "{8EA2F228-F722-427F-905C-8CDA42648AEA}"
 EndProject
