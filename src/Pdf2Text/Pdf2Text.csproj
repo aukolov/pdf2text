@@ -6,10 +6,18 @@
     <Copyright>(c) aukolov, 2019 (c) iText</Copyright>
     <Description>This package can be used to extract text from PDF files.
 iText7 package is used internally.</Description>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="itext7" Version="7.1.8" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
