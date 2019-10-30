@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdf2Text", "Pdf2Text\Pdf2Text.csproj", "{5DAAAC54-9F6E-46C7-8590-CCAA6FC1C06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pdf2Text.Tests", "src\Pdf2Text.Tests\Pdf2Text.Tests.csproj", "{8EA2F228-F722-427F-905C-8CDA42648AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DAAAC54-9F6E-46C7-8590-CCAA6FC1C06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAAAC54-9F6E-46C7-8590-CCAA6FC1C06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAAAC54-9F6E-46C7-8590-CCAA6FC1C06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAAAC54-9F6E-46C7-8590-CCAA6FC1C06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA2F228-F722-427F-905C-8CDA42648AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA2F228-F722-427F-905C-8CDA42648AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA2F228-F722-427F-905C-8CDA42648AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA2F228-F722-427F-905C-8CDA42648AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34180F3D-E788-4362-A0A5-79D3CE3F47F2}
+	EndGlobalSection
+EndGlobal
